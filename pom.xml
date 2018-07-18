@@ -151,4 +151,11 @@
         </plugins>
     </build>
 
+	<developers>
+		<developer>
+			<name> Rodrigo Moraes </name>
+			<email> rodrigomoraes87@gmail.com </email>
+		</developer>
+	</developers>
+	
 </project>
